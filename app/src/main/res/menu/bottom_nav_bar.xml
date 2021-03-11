@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home_menu"
+        android:enabled="true"
+        android:icon="@drawable/home_icon"
+        android:title="@string/home"
+        app:cnb_backgroundColor="@color/colorPrimary"
+        app:cnb_iconColor="@color/colorAccent"
+        app:cnb_textColor="@color/colorAccent" />
+
+    <item
+        android:id="@+id/family_members"
+        android:enabled="true"
+        android:icon="@drawable/family_icon"
+        android:title="@string/family_members"
+        app:cnb_backgroundColor="@color/colorPrimary"
+        app:cnb_iconColor="@color/colorAccent"
+        app:cnb_textColor="@color/colorAccent" />
+
+    <item
+        android:id="@+id/my_account"
+        android:enabled="true"
+        android:icon="@drawable/my_account_icon"
+        android:title="@string/my_account"
+        app:cnb_backgroundColor="@color/colorPrimary"
+        app:cnb_iconColor="@color/colorAccent"
+        app:cnb_textColor="@color/colorAccent" />
+
+</menu>

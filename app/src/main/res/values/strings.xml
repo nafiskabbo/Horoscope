@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Horoscope</string>
+
+    <!--    navigation-->
+    <string name="home">HOME</string>
+    <string name="family_members">FAMILY MEMBERS</string>
+    <string name="my_account">MY ACCOUNT</string>
+    <!--    navigation-->
+
+    <!--    register-->
+    <string name="dont_have_account_text">Don\'t have a account? Sign up!</string>
+    <string name="already_have_account_text">Already have an account? Sign in!</string>
+    <string name="or_text">or</string>
+    <string name="sign_in_text">Sign In</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="sign_out_text">Sign Out</string>
+    <!--    register-->
+    <string name="username_text">Username</string>
+    <string name="email_id_text">Email ID</string>
+    <string name="full_name_text">Full Name</string>
+    <string name="nickname_text">Nickname (Optional)</string>
+    <string name="password_text">Password</string>
+    <string name="pass_text_8_chars">Password (at least 8 characters)</string>
+    <string name="confirm_password_text">Confirm Password</string>
+
+    <string name="date_of_birth_text">Date of birth</string>
+    <string name="birth_year_text">Birth Year (Optional)</string>
+    <string name="time_of_birth_text">Birth Time (Optional)</string>
+
+
+    <string name="select_date_of_birth">Select your date of birth</string>
+    <string name="select_birth_year">Select your birth year</string>
+
+    <!--    forgot password fragment-->
+    <string name="forgot_pass_text">Forgot Password?</string>
+    <string name="forgot_pass_body">Don\'t worry. We just need your registered email address and it\'s done!</string>
+    <string name="provide_email_here">Provide your registered email here</string>
+    <string name="recovery_email_sent">Recovery email sent successfully! Check your Inbox.</string>
+    <string name="coupon_footer_text">* Make sure to apply the coupen from your cart.</string>
+    <string name="reset_password_text">Reset Password</string>
+    <string name="go_back_text">&lt; &lt; Go Back</string>
+    <!--    forgot password fragment-->
+
+    <string name="hello_text" formatted="false">Hello %1$s!</string>
+    <string name="sun_sign_text" formatted="false">Your Sun Sign : <b>%1$s</b></string>
+    <string name="luck_color_text" formatted="false">You know your lucky color is <b>%1$s</b></string>
+    <string name="luck_number_text" formatted="false">You know your lucky number is <b>%1$s</b></string>
+
+    <string name="luck_color_text_family" formatted="false">You know your <b>%1$s</b>\'s lucky color is <b>%2$s</b></string>
+    <string name="luck_number_text_family" formatted="false">You know your <b>%1$s</b>\'s lucky number is <b>%2$s</b></string>
+
+    <string name="try_out_flames">Try fun flames</string>
+    <string name="try_">Try </string>
+    <string name="loading_text">Loading…</string>
+
+
+    <string name="aries">ARIES</string>
+    <string name="taurus">TAURUS</string>
+    <string name="gemini">GEMINI</string>
+    <string name="cancer">CANCER</string>
+    <string name="leo">LEO</string>
+    <string name="virgo">VIRGO</string>
+    <string name="libra">LIBRA</string>
+    <string name="scorpio">SCORPIO</string>
+    <string name="sagittarius">SAGITTARIUS</string>
+    <string name="capricorn">CAPRICORN</string>
+    <string name="aquarius">AQUARIUS</string>
+    <string name="pisces">PISCES</string>
+
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "391422149842",
+    "firebase_url": "https://horoscope-8f4f0.firebaseio.com",
+    "project_id": "horoscope-8f4f0",
+    "storage_bucket": "horoscope-8f4f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391422149842:android:74eb737b45a338cf5cd90b",
+        "android_client_info": {
+          "package_name": "com.kabbo_dev.horoscope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391422149842-netr0kq1s6osq7goi6m1ciu5nm6vvdmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC01nSxHlRYVy6sKRy_OWsGw6mOzCoD81s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391422149842-netr0kq1s6osq7goi6m1ciu5nm6vvdmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
